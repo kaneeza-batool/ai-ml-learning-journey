@@ -12,3 +12,9 @@ print("Hello "+ name)
 """ Is a 
 multiline 
 comment """
+
+# f-string
+print(f"hello {name}")
+
+# using double quotes inside string's double quotes
+print("hello \"friend\"")
